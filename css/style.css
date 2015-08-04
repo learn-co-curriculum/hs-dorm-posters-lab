@@ -32,6 +32,16 @@ h3 {
   background: grey;
 }
 
+.store {
+  width: 800px;
+  border: 1px dashed;
+  margin: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 10px 10px 10px 10px;
+  background: grey;
+}
+
 /*"The Classy Roommate"*/
 
 #audrey{
